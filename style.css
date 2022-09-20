@@ -125,6 +125,7 @@ ul li a {
 
   margin-bottom: 16px;
   border-radius: 6px;
+  gap: 12px;
   transition: background 400ms;
 }
 
