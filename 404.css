@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 3rem;
+}
+
+nav img {
+  width: 30px;
+  height: 30px;
+}
+
+.container {
+  text-align: center;
+  width: 300px;
+  margin: 60px auto;
+  
+}
